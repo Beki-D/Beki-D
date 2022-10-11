@@ -4,6 +4,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beki-d" alt="beki-d" /></a> </p>
 
+- 💗 I absolutely just love **Javascript**
+
 - 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **ReactJS, Javascript**
