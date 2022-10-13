@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **bk14drobs@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: www.linkedin.com/in/beki-diribsa-818222233</h3>
 <p align="left">
 </p>
 
