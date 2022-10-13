@@ -14,9 +14,8 @@
 
 - 📫 How to reach me **bk14drobs@gmail.com**
 
-<h3 align="left">Connect with me:
-  <a href="https://t.me/bk25119" rel="nofollow"><img width="50" height="50" alt="Telegram logo: https://t.me/bk25119" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png"></a>
- </h3> 
+<h3 align="left">Connect with me:</h3>
+  <a href="https://t.me/bk25119" rel="nofollow"><img width="50" height="50" alt="Telegram logo: https://t.me/bk25119" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png"></a> 
  <a href="https://linkedin.com/in/beki-diribsa-818222233" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beki-diribsa-818222233" style="max-width: 100%;" width="40" height="30" align="middle"></a>
   
 <p align="left">
