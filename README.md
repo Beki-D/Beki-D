@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Beki</h1>
+<h1 align="center">Hello 👋, I'm Beki</h1>
 <h3 align="center">A passionate web developer from Ethiopia.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beki-d" alt="beki-d" /></a> </p>
 
-- 💗 I absolutely just love **Javascript**
+- 💗 I absolutely love **Javascript**
 
 - 🔭 I’m currently working on **React**
 
