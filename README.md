@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello 👋, I'm Beki</h1>
-<h3 align="center">A passionate web and mobile developer, graphics designer and computer engineer.</h3>
+<h3 align="center">I'm a passionate web and mobile developer, graphics designer and a computer engineer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beki-d&theme=monokai" alt="beki-d" /></a> </p>
 
