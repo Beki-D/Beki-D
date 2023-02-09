@@ -35,5 +35,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beki-d&show_icons=true&locale=en&layout=compact&theme=monokai" alt="beki-d" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beki-d&show_icons=true&locale=en" alt="beki-d" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beki-d&show_icons=true&locale=en&theme=monokai" alt="beki-d" /></p>
 
