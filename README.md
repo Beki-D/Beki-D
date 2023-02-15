@@ -6,7 +6,7 @@
 
 - 💗 I absolutely love **Javascript**
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Android app development with Kotlin, React**
 
 - 🌱 I’m currently learning **ReactJS, Javascript**
 
