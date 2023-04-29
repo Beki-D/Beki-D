@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Beki</h1>
 <h3 align="center">I'm a self-taught web developer and designer. Furthermore, I work in mobile development, graphic design, and computer engineering.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beki-d&theme=monokai" alt="beki-d" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beki-d&theme=monokai" alt="beki-d" style="width: 100%;" /></a> </p>
 
 - 💗 I absolutely love **Javascript**
 
