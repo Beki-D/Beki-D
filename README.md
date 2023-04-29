@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello 👋, I'm Beki</h1>
-<h3 align="center">I'm a passionate web and mobile developer, graphics designer and computer engineering student.</h3>
+<h3 align="center">I'm a passionate web developer and designer. I also do mobile development, graphics design and computer engineering.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beki-d&theme=monokai" alt="beki-d" /></a> </p>
 
@@ -8,10 +8,9 @@
 
 - 🔭 I’m currently working on **Android app development with Kotlin, React**
 
-- 🌱 I’m currently learning **ReactJS, Javascript**
+- 🌱 I’m currently learning **ReactJS, Javascript, CISCO networking**
 
-- 💬 Ask me about **Javascript, Web stuff, C**
-
+- 💬 Ask me about **Javascript, React, Web stuff, C/C++, Networking**
 - 📫 How to reach me **bk14drobs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
