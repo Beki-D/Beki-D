@@ -6,9 +6,9 @@
 
 - 💗 I love **Javascript**
 
-- 🔭 I’m currently working on **Android app development with Kotlin, React**
+- 🔭 I’m currently working on ** Web development & Networking**
 
-- 🌱 I’m currently learning **ReactJS, Javascript, CISCO networking**
+- 🌱 I’m currently learning **Javascript, CISCO networking**
 
 - 💬 Ask me about **Javascript, React, Web stuff, C/C++, Networking**
 - 📫 How to reach me **bk14drobs@gmail.com**
