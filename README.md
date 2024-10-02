@@ -6,11 +6,11 @@
 
 - 💗 I love **Javascript**
 
-- 🔭 I’m currently working on ** Web development & Networking**
+- 🔭 I’m currently working on **Web development**
 
 - 🌱 I’m currently learning **Javascript, CISCO networking**
 
-- 💬 Ask me about **Javascript, React, Web stuff, C/C++, Networking**
+- 💬 Ask me about **Javascript, React, Web, C/C++, Networking**
 - 📫 How to reach me **bk14drobs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
