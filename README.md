@@ -1,14 +1,14 @@
 
 <h1 align="center">Hello 👋, I'm Beki</h1>
-<h3 align="center">Passionate about code, design, and electronics. I'm a computer engineer experienced in web development, mobile, and a lot more.</h3>
+<h3 align="center">Passionate about code, design, and electronics. I'm a computer engineer spcializing in full-stack web development, mobile, and a lot more.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beki-d&theme=monokai" alt="beki-d" style="width: 100%;" /></a> </p>
 
 - 💗 I love **Javascript**
 
-- 🔭 I’m currently working on **Web development**
+- 🔭 I’m currently working on **Full-stack web development**
 
-- 🌱 I’m currently learning **Javascript, CISCO networking**
+- 🌱 I’m currently learning **Javascript, GraphQL**
 
 - 💬 Ask me about **Javascript, React, Web, C/C++, Networking**
 - 📫 How to reach me **bk14drobs@gmail.com**
