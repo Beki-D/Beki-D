@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Full-stack web development**
 
-- 🌱 I’m currently learning **Javascript, GraphQL**
+- 🌱 I’m currently learning **ThreeJS, GraphQL**
 
-- 💬 Ask me about **Javascript, React, Web, C/C++, Networking**
+- 💬 Ask me about **Javascript, React, Web, C/C++, Networking, Electronics**
 - 📫 How to reach me **bk14drobs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
