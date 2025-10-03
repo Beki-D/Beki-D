@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Full-stack web development**
 
-- 🌱 I’m currently learning **ThreeJS, GraphQL**
+- 🌱 I’m currently learning **T3 stack, tRPC**
 
 - 💬 Ask me about **Javascript, React, Web, C/C++, Networking, Electronics**
 - 📫 How to reach me **bk14drobs@gmail.com**
